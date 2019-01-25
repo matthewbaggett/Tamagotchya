@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.2.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -3413,20 +3413,20 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <contactref element="C205" pad="2"/>
 <contactref element="JOY" pad="GND"/>
 <polygon width="0.1524" layer="1">
-<vertex x="-1.778" y="36.322"/>
-<vertex x="31.623" y="36.322"/>
-<vertex x="31.623" y="0"/>
-<vertex x="19.685" y="-0.120584375"/>
+<vertex x="-2.54" y="36.83"/>
+<vertex x="31.75" y="36.83"/>
+<vertex x="31.75" y="-3.81"/>
+<vertex x="19.685" y="-3.81"/>
 <vertex x="19.685" y="5.207"/>
-<vertex x="-1.778" y="5.207"/>
+<vertex x="-2.54" y="5.207"/>
 </polygon>
 <polygon width="0.1524" layer="16">
-<vertex x="-0.762" y="35.433"/>
-<vertex x="31.623" y="35.433"/>
-<vertex x="31.623" y="0"/>
-<vertex x="19.558" y="-0.12186875"/>
-<vertex x="19.558" y="5.207"/>
-<vertex x="-0.762" y="5.207"/>
+<vertex x="-1.27" y="35.56"/>
+<vertex x="30.48" y="35.56"/>
+<vertex x="30.48" y="-2.54"/>
+<vertex x="19.685" y="-2.54"/>
+<vertex x="19.685" y="5.207"/>
+<vertex x="-1.27" y="5.207"/>
 </polygon>
 <contactref element="U1000" pad="1"/>
 <contactref element="U1000" pad="3"/>
