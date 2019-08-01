@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.4.0">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -196,7 +196,7 @@
 <text x="25.654" y="12.446" size="0.8" layer="25" rot="R90" align="center">Industrial Design
 by G. Eusebio</text>
 <text x="4.953" y="3.683" size="1.016" layer="25">rev 0</text>
-<text x="34.036" y="27.305" size="1.778" layer="48" align="top-left">TODO:
+<text x="32.766" y="-3.683" size="1.778" layer="48" rot="R90" align="top-left">TODO:
 ESP32 TX/RX/RST/GPIO-0 breakout
 I2C breakout?</text>
 </plain>

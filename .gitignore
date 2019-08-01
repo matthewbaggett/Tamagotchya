@@ -1,3 +1,7 @@
+.pio
+.pioenvs
+.piolibdeps
+.vscode/
 .idea
 version.h
 build*/
@@ -9,3 +13,5 @@ lib/
 .~lock.*
 *.lck
 *.job
+*.v7.brd
+*.v7.sch
